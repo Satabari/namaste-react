@@ -1,11 +1,11 @@
 #heading {
-    color: red 
+  color: red 
 }
 
 #grandchild11, #grandchild12 {
-    color: blue;
+  color: blue;
 }
 
 #grandchild21, #grandchild22 {
-    color: blueviolet;
+  color: blueviolet;
 }
