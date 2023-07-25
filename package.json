@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namaste React Course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satabari/namaste-react.git"
+  },
+  "keywords": [
+    "namste-react-course"
+  ],
+  "author": "Satabari Mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satabari/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Satabari/namaste-react#readme"
+}
