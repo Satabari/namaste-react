@@ -4,6 +4,8 @@
   "description": "Namaste React Course",
   "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "build parcel index.html",
     "test": "jest"
   },
   "repository": {
